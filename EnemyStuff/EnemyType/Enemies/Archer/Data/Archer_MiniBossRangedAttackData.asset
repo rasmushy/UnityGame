@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59437ae148b67514385b96ac9d6ea1fd, type: 3}
+  m_Name: Archer_MiniBossRangedAttackData
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 8240781985526100046, guid: d61706ebadbbab1458a997f9c99601a3, type: 3}
+  projectileDmg: 35
+  projectileSpeed: 15
+  projectileTravelDistance: 9
+  deSpawnTimer: 10
+  isItSpell: 0
